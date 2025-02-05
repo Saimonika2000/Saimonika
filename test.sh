@@ -21,3 +21,4 @@ yum install nginx -y
 ansible --version
 java -version
 echo successfully completed
+Done commit
